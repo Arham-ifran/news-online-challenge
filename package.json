@@ -1,0 +1,43 @@
+{
+  "private": true,
+  "type": "module",
+  "author": "Arham Irfan ",
+  "description": "A news aggregator website designed to retrieve articles from diverse sources and present them in a user-friendly and visually appealing format.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@testing-library/jest-dom": "^6.1.5",
+    "@testing-library/react": "^14.1.2",
+    "@testing-library/user-event": "^14.5.1",
+    "axios": "^1.6.2",
+    "platform": "^1.3.6",
+    "react": "^18.2.0",
+    "react-datepicker": "^4.24.0",
+    "react-dom": "^18.2.0",
+    "react-owl-carousel": "^2.3.3",
+    "react-router-dom": "^6.20.1",
+    "react-scripts": "5.0.1",
+    "react-select": "^5.8.0",
+    "react-toastify": "^9.1.3",
+    "web-vitals": "^3.5.0"
+  },
+  "devDependencies": {
+    "@popperjs/core": "^2.11.8",
+    "@testing-library/jest-dom": "^6.1.5",
+    "@testing-library/react": "^14.1.2",
+    "@testing-library/user-event": "^14.5.1",
+    "@types/jest": "^29.5.11",
+    "@types/node": "^20.10.4",
+    "@types/react": "^18.2.42",
+    "@types/react-datepicker": "^4.19.3",
+    "@types/react-dom": "^18.2.17",
+    "@vitejs/plugin-react-refresh": "^1.3.6",
+    "bootstrap": "^5.3.2",
+    "laravel-vite-plugin": "^0.8.1",
+    "sass": "^1.69.5",
+    "vite": "^5.0.6"
+  }
+}
